@@ -1,0 +1,33 @@
+10th Doctor TARDIS Starfall repair
+
+Mesh audit
+----------
+Original triangles: 10086
+Connected orientation components: 32
+Triangles whose winding was changed: 628
+Remaining same-direction manifold edges after repair: 0
+Orientation graph conflicts: 0
+Triangles crossing 2K UV tile boundaries and clipped: 204
+
+Other checks performed before repair
+------------------------------------
+- No zero-area triangles found.
+- No exact duplicate triangles found.
+- No duplicate geometric triangles found.
+- No 3-edge boundary loop suggesting a single missing triangle.
+- Source contains several intentional open boundary loops/panel shells.
+
+Texture repairs
+---------------
+- Six flat gray window-pane islands in Material.003 were given a cloudy/frosted
+  texture matching the neighboring panes.
+- Material.001 and Material.002 source base textures had alpha=0 everywhere.
+  Opaque copies were generated with alpha=255.
+
+Use with
+--------
+custommodellib_lite_v7.txt
+tardis_model_hq_2k_repaired_test_v9.txt
+
+Upload all files in this folder to:
+tardis_github_assets/
