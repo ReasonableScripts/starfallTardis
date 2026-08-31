@@ -1,0 +1,21 @@
+newmtl Material.003
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 32
+map_Kd Material003_BaseColor.png
+map_Bump Material003_Normal.png
+
+newmtl Material.001
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 32
+map_Kd Material001_BaseColor.png
+map_Bump Material001_Normal.png
+
+newmtl Material.002
+Kd 1 1 1
+Ks 0.1 0.1 0.1
+Ns 32
+map_Kd Material002_BaseColor.png
+map_Bump Material002_Normal.png
+

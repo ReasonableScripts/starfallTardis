@@ -1,0 +1,7 @@
+10th Doctor's TARDIS model
+Original creator: GawkyDevotee86
+Original model page: https://sketchfab.com/3d-models/10th-doctors-tardis-30c155717c12492b9a00c4113042b15d
+License: Creative Commons Attribution (CC BY), as listed on the original Sketchfab download.
+
+This repository copy is a format conversion/packaging of that model for use with Garry's Mod / StarfallEx.
+Please retain this attribution when redistributing the converted model or textures.
